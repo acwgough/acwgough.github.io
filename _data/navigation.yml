@@ -2,14 +2,14 @@ main:
   - title: "About me"
     url: /about/
   - title: "Blog"
-    url: /recent/
+    url: /recent/index.html
   - title: "CV"
     url: /Alexander_Gough_CV.pdf
 
 # adding sidebar for blog navigation
 blog:
     - title: "Recent posts"
-      url: /recent/
+      url: /recent/index.html
     - title: "Posts by year"
       url: /posts-year/
     - title: "Posts by category"
