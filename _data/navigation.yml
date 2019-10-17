@@ -1,12 +1,8 @@
 main:
+  - title: "About me"
+    url: /about/
   - title: "Blog"
     url: /posts-recent/
-  - title: "Categories"
-    url: /posts-categories/
-  - title: "Tags"
-    url: /posts-tags/
-  - title: "About"
-    url: /about/
   - title: "CV"
     url: /Alexander_Gough_CV.pdf
 
