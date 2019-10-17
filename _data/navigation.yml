@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
   - title: "Categories"
     url: /categories/
@@ -9,3 +9,14 @@ main:
     url: /about/
   - title: "CV"
     url: /Alexander_Gough_CV.pdf
+
+# adding sidebar for blog navigation
+blog:
+    - title: "Recent posts"
+      url: /posts/
+    - title: "Posts by year"
+      url: /posts/
+    - title: "Posts by category"
+      url: /categories/
+    - title: "Posts by tag"
+      url: /tags/
