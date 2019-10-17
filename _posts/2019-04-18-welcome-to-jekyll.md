@@ -8,7 +8,7 @@ tags:
   - Jekyll
   - update
 ---
-Test LaTeX compatability: $E=mc^2$ and \\(E=mc^2\\) and \[G_{ab} = 8 \pi T_{ab}\]
+Test LaTeX compatability: $E=mc^2$ and \\(E=mc^2\\) and \\[G_{ab} = 8 \pi T_{ab}\\]
 
 $$G_{ab} = 8 \pi T_{ab}$$
 
