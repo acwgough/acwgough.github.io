@@ -72,8 +72,8 @@ author:
       url: "https://www.linkedin.com/in/alexandergough/"
       # can maybe add a link to download my CV from here
     - label: "CV"
-      icon: "fab fa-fw fa-file"
-      url: "http:acwgough.github.io/CV/"
+      icon: "fab fa-fw fa-file-pdf"
+      url: "http:acwgough.github.io/Alexander_Gough_CV.pdf/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
