@@ -1,10 +1,10 @@
 main:
   - title: "Blog"
-    url: /posts/
+    url: /posts-recent/
   - title: "Categories"
-    url: /categories/
+    url: /posts-categories/
   - title: "Tags"
-    url: /tags/
+    url: /posts-tags/
   - title: "About"
     url: /about/
   - title: "CV"
@@ -13,10 +13,10 @@ main:
 # adding sidebar for blog navigation
 blog:
     - title: "Recent posts"
-      url: /posts/
+      url: /posts-recent/
     - title: "Posts by year"
-      url: /posts/
+      url: /posts-year/
     - title: "Posts by category"
-      url: /categories/
+      url: /posts-categories/
     - title: "Posts by tag"
-      url: /tags/
+      url: /posts-tags/
