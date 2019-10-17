@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     science and things I find interesting.
 twitter_username: thatscuzwhy
 github_username: acwgough
-minimal_mistakes_skin: dirt # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
