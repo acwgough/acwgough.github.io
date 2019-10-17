@@ -1,5 +1,5 @@
 ---
-title: "Recent Posts"
+title: ""
 sidebar:
     nav: "blog"
 permalink: /posts-recent/
