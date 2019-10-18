@@ -10,9 +10,10 @@ main:
 blog:
     - title: "Recent posts"
       url: /recent/index.html
-    - title: "Posts by year"
-      url: /posts-year/
-    - title: "Posts by category"
-      url: /posts-categories/
-    - title: "Posts by tag"
-      url: /posts-tags/
+      -children:
+        - title: "Posts by year"
+          url: /posts-year/
+        - title: "Posts by category"
+          url: /posts-categories/
+        - title: "Posts by tag"
+          url: /posts-tags/
