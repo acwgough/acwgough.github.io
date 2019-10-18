@@ -8,9 +8,10 @@ main:
 
 # adding sidebar for blog navigation
 blog:
-    - title: "Recent posts"
-      url: /recent/index.html
-      -children:
+    - title: "Blog navigation"
+      children:
+        - title: "Recent posts"
+          url: /recent/index.html
         - title: "Posts by year"
           url: /posts-year/
         - title: "Posts by category"
