@@ -1,10 +1,12 @@
 main:
-  - title: "About me"
-    url: /about/
-  - title: "Blog"
-    url: /recent/index.html
-  - title: "CV"
-    url: /Alexander_Gough_CV.pdf
+    - title: "Navigation"
+      children:
+      - title: "About me"
+        url: /about/
+      - title: "Blog"
+        url: /recent/index.html
+      - title: "CV"
+        url: /Alexander_Gough_CV.pdf
 
 # adding sidebar for blog navigation
 blog:
