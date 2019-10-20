@@ -2,7 +2,7 @@
 title: "Posts by Tag"
 sidebar:
     nav: "blog"
-permalink: /posts-tags/
+permalink: /tags/
 layout: tags
 author_profile: true
 ---

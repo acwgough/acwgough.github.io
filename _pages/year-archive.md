@@ -2,7 +2,7 @@
 title: "Posts by Year"
 sidebar:
     nav: "blog"
-permalink: /posts-year/
+permalink: /year/
 layout: posts
 author_profile: true
 ---

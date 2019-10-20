@@ -13,8 +13,8 @@ blog:
         - title: "Recent posts"
           url: /recent/index.html
         - title: "Posts by year"
-          url: /posts-year/
+          url: /year/
         - title: "Posts by category"
-          url: /posts-categories/
+          url: /categories/
         - title: "Posts by tag"
-          url: /posts-tags/
+          url: /tags/
