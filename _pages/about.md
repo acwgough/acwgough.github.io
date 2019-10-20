@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About me"
+excerpt: "|
+
+
+"
 header:
   overlay_image: /assets/images/moon.jpg
   caption: "Photo taken by Alex Gough"
