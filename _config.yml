@@ -90,6 +90,12 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alexandergough/"
 
+# to enable comments set up disqus account and uncomment this.
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "your-disqus-shortname"
+
 defaults:
   # _posts
   - scope:
