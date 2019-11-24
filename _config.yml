@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Alex Gough"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Icon art painting from Charlie Rose. Masters student in mathematical and theoretical physics at Oxford University."
+  bio    : "Icon art painting from Charlie Rose. I am a masters student in mathematical and theoretical physics at Oxford University. I'm interested in cosmology, fundamental physics, education, and science communication. Follow me in other places!"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -108,6 +108,7 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
   # _pages
   - scope:
       path: "_pages"
@@ -115,6 +116,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      mathjax: true
 
 category_archive:
   type: liquid
