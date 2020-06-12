@@ -16,7 +16,7 @@
 title: Alex Gough
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-    Personal website of Alex Gough: masters student in physics and mathematics. I write about
+    Personal website of Alex Gough: PhD student in cosmology. I write about
     science and things I find interesting.
 twitter_username: thatscuzwhy
 github_username: acwgough
@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Alex Gough"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Icon art painting from Charlie Rose. I am a masters student in mathematical and theoretical physics at Oxford University. I'm interested in cosmology, fundamental physics, education, and science communication. Follow me in other places!"
+  bio    : "Icon art painting from Charlie Rose. I am a PhD student in cosmology at Newcaslte University. I'm interested in cosmology, fundamental physics, education, and science communication. Follow me in other places!"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
