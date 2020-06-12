@@ -9,7 +9,7 @@ header:
   caption: "Photo taken by Alex Gough"
 
 ---
-I'm a first year PhD student at Newcastle University. Formally my PhD is in mathematics, but at heart I'm a physicist, and my research is focused on unserstanding the large scale structure of the Universe. In particular I study dark matter dynamics in the non-linear regime, and work on using and developing new statistical techniques for extracting cosmological information.
+I'm a first year PhD student at Newcastle University. Formally my PhD is in mathematics, but at heart I'm a physicist, and my research is focused on understanding the large scale structure of the Universe. In particular I study dark matter dynamics in the non-linear regime, and work on using and developing new statistical techniques for extracting cosmological information.
 
 I recieved my masters degree from Oxford university where I did both my undergraduate degree and the Mathematical and Theoretical Physics (MMathPhys) course.
 
