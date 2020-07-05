@@ -1,9 +1,9 @@
 # Ideas for writing (future things)
-1. Roll of approximations in physics
+1. Role of approximations in physics
 2. Dimensional analysis
 3. Typical/natural scales and solving hard problems
 4. Story telling and the physical world
-5. Statistics: errors. What do error bars actually mean? Distributions, small samples, cosmic variance, people are bad at assessing problems that aren't (100, 50, 0)%
+5. Statistics: errors. What do error bars actually mean? Distributions, small samples, cosmic variance, people are bad at assessing problems that aren't (100, 50, 0)%. How error propogation works for different functions (linear algebra)
 6. Why astro? Everything that we learn in our course is actually true and how we know
 7. Guide to stargazing
 8. My route through undergrad, how my interests have changed/surprised me
