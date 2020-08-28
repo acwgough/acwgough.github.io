@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Alex Gough"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Icon art painting from Charlie Rose. I am a PhD student in cosmology at Newcastle University. I'm interested in cosmology, fundamental physics, education, and science communication. Follow me in other places!"
+  bio    : "Icon art painting from Charlie Rose. I am a PhD student in cosmology at Newcaslte University. I'm interested in cosmology, fundamental physics, education, and science communication. Follow me in other places!"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

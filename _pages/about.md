@@ -6,13 +6,13 @@ excerpt: "|
 "
 header:
   overlay_image: /assets/images/moon.jpg
-  <!-- caption: "Photo taken by Alex Gough" -->
+  caption: "Photo taken by Alex Gough"
 
 ---
-I'm a first year PhD student at Newcastle University. Formally my PhD is in mathematics, but at heart I'm a physicist, and my research is focused on understanding the large scale structure of the Universe. In particular I study dark matter dynamics in the non-linear regime, and work on using and developing new statistical techniques for extracting cosmological information. My supervisor is Cora Uhlemann.
+I'm a first year PhD student at Newcastle University. Formally my PhD is in mathematics, but at heart I'm a physicist, and my research is focused on understanding the large scale structure of the Universe. In particular I study dark matter dynamics in the non-linear regime, and work on using and developing new statistical techniques for extracting cosmological information.
 
-I received my masters degree from Oxford university where I did both my undergraduate degree and the Mathematical and Theoretical Physics (MMathPhys) course During this course I took courses on general relativity, cosmology, quantum field theory, galactic dynamics, radiative processes, group theory, and differential geometry.
+I recieved my masters degree from Oxford university where I did both my undergraduate degree and the Mathematical and Theoretical Physics (MMathPhys) course.
 
 I'm also interested in education, both of science and more generally. I enjoy teaching and writing, and have experience working directly with both students and the public. I'm interested in science as a human endeavour, and how the communication of science can benefit from and interface with different media such as storytelling and art. I write about things that interest me in [my blog](/recent/index.html).
 
-I'm also interested in photography and Taekwon-do. In future I may showcase some of those things on this website as well. Unless otherwise credited all photos/diagrams on this website are by me.
+I'm also interested in photography and Taekwon-do. In future I may showcase some of those things on this website as well.
