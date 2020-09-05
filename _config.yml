@@ -91,9 +91,9 @@ footer:
 
 # to enable comments set up disqus account and uncomment this.
 # comments:
-  provider: "disqus"
-  disqus:
-    shortname: "acwgough-github-io"
+  # provider: "disqus"
+  # disqus:
+  #   shortname: "acwgough-github-io"
 
 defaults:
   # _posts
