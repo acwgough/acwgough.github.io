@@ -2,6 +2,7 @@
 title: "Introductory post"
 date: 2020-08-28
 mathjax: true
+comments: true
 categories:
 tags:
 ---
