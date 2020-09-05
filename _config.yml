@@ -16,8 +16,7 @@
 title: Alex Gough
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-    Personal website of Alex Gough: PhD student in cosmology. I write about
-    science and things I find interesting.
+    Alex Gough. I'm a PhD student in cosmology, studying the large scale structure of the universe, dark matter, and statistics. I write about theoretical physics, mathematics, science communication and education, and other things I find interesting.
 twitter_username: acwgough
 github_username: acwgough
 minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
@@ -92,9 +91,9 @@ footer:
 
 # to enable comments set up disqus account and uncomment this.
 # comments:
-#   provider: "disqus"
-#   disqus:
-#     shortname: "your-disqus-shortname"
+  provider: "disqus"
+  disqus:
+    shortname: "acwgough-github-io"
 
 defaults:
   # _posts
