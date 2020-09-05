@@ -17,6 +17,8 @@ How would we rediscover/reseablish what we know if we lost it all?
 9. Series: Summer research at Oxford (CMB stuff); Dissertation stuff (history of isotropy)
 9. Introduction to manifolds and gravity
 9. Constant speed of light: as a hinderance (horizons) and as a help (time machines and evolution).
+9. Book report on To Be Taught if Fortunate
+9. Series on AMA questions from Cosmofromhome
 
 # Questions from LS students after talk
 1. What is a BH?
