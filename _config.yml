@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alex Gough
-email:
+email: a.gough2@ncl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
     Alex Gough. I'm a PhD student in cosmology, studying the large scale structure of the universe, dark matter, and statistics. I write about theoretical physics, mathematics, science communication and education, and other things I find interesting.
 twitter_username: acwgough
@@ -61,8 +61,11 @@ plugins:
 author:
   name   : "Alex Gough"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Icon art painting from Charlie Rose. I am a PhD student in cosmology at Newcastle University. I'm interested in cosmology, fundamental physics, education, and science communication. Follow me in other places!"
+  bio    : "(they/them) PhD researcher at Newcastle University. Cosmology, fundamental physics, science communication and education."
   links:
+    - label: "Email"
+      url: "mailto:a.gough2@ncl.ac.uk"
+      icon: "fab fa-fw fa-envelope-square"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/acwgough"
