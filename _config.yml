@@ -65,7 +65,7 @@ author:
   links:
     - label: "Email"
       url: "mailto:a.gough2@ncl.ac.uk"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-envelope-square"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/acwgough"
