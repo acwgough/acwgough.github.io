@@ -25,3 +25,9 @@ Some topics I anticipate writing about in the near future either here or on my [
 * and much much more!
 
 Hold tight for more to come, I'm hoping to start actually getting through this list very soon.
+
+---
+
+Below is me testing the embedding of images and videos into posts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7MF6WCmLsU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
