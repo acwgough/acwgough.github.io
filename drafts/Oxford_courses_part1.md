@@ -1,6 +1,5 @@
 ---
 title: "Oxford physics courses: Part 1"
-date: xxxx-xx-xx
 mathjax: true
 categories:
   - physics
