@@ -2,9 +2,9 @@ main:
   - title: "About me"
     url: /about/
   - title: "Publications"
-    url: /about/
-  - title: "Outreach/Conferences"
-    url: /about/
+    url: /research/
+  - title: "Talks"
+    url: /talks/
   - title: "Blog"
     url: /recent/index.html
   - title: "CV"

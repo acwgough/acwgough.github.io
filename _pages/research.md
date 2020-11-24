@@ -1,3 +1,15 @@
+---
+permalink: /research/
+title: "Publications and research"
+excerpt: "|
+
+"
+header:
+  overlay_image: /assets/images/moon.jpg
+
+---
+
+
 This page lists publications and other research based endeavours.
 
 ## Papers
