@@ -8,7 +8,7 @@ tags: talk, outreach, physics, LSS
 ---
 # Talk: The skeleton of our universe
 
-Tomorrow I give a talk to the Newcastle Astronomical Society entitled the Skeleton of Our Universe. This is particularly exciting to me as this is the first public talk I've given to adults. I have previously spoken to schools and children about science, but presenting to a society of astronomy enthusiastic adults will be a new experience. I anticipate recieving lots of interesting questions, and hopefully there will be good discussions.
+Tomorrow I give a talk to the Newcastle Astronomical Society entitled the Skeleton of Our Universe. This is particularly exciting to me as this is the first public talk I've given to adults. I have previously spoken to schools and children about science, but presenting to a society of astronomy enthusiastic adults will be a new experience. I anticipate receiving lots of interesting questions, and hopefully there will be good discussions.
 
 ![The title slide from my talk "The Skeleton of our Universe". It shows the filaments of the cosmic web in the background. The text reads: The Skeleton of Our Universe. Alex Gough. Cosmology & Observational Astronomy Groups. School of Mathematics, Statistics, and Physics, Newcastle University.](images/Skeleton_of_the_universe/title-slide.png)
 
