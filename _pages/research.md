@@ -24,7 +24,7 @@ Gravitational collapse is a nonlinear process, turning even simple initial condi
 |---- | ---- | ---- |
 |4 -- 8 Jan 2021 | Rise of field theory workshop | Attendance |
 |6 -- 7 Jan 2021 | DEX-XVII | Attendance |
-|11 -- 15 Jan 2021 | STFC School for New Students in Astronomy| Short Talk ([slides]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2021_Gough_STFC_Intro_School_for_Astronomy.pdf))|
+|11 -- 15 Jan 2021 | STFC School for New Students in Astronomy| Short Talk ([slides]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2021_Gough_STFC_Intro_School_for_Astronomy.pdf), [Twitter thread](https://twitter.com/acwgough/status/1349756493214658564?s=20))|
 
 2020
 
