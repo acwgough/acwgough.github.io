@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Publications and research"
+title: "Research, conferences, and publications"
 excerpt: "|
 
 "
@@ -9,12 +9,14 @@ header:
 
 ---
 
-My research focuses on structure formation in cosmology.
+I am broadly interested in cosmology and astrophysics. My current research focuses on the late universe and how to better understand and predict the formation of large scale structure. I have also done previous work on CMB physics.
 
-# Gravitational dynamics
-Gravitational collapse is a nonlinear process, turning even simple initial conditions into hugely complex structures at late times. Dark matter is typically modelled as a cold collisionless fluid, which is hugely successful at large scales. However, to understand bound structures, the perfect fluid model must break down, as different streams of dark matter can intersect, causing the distribution to no longer have single valued velocity. Better understanding the dynamics of dark matter within this multistream region is critical to understanding the smaller scale effects of large scale structure. My work focuses on using techniques inspired by the quantum-classical correspondence to model cold dark matter beyond the simple perfect fluid approximation.
+## Gravitational dynamics
+ Dark matter is typically modelled as a cold collisionless fluid, which is hugely successful at large scales. However, to understand bound structures, the perfect fluid model must break down, as different streams of dark matter can intersect, causing the distribution to no longer have single valued velocity. Better understanding the dynamics of dark matter within this multistream region is critical to understanding the smaller scale effects of large scale structure. My work focuses on using techniques inspired by the quantum-classical correspondence to model cold dark matter beyond the simple perfect fluid approximation.
 
-# Clustering statistics
+## Clustering statistics
+Because of the nonlinearities of gravitational interaction, even Gaussian initial conditions evolve into highly non-Gaussian distributions over time. Finding a set of statistics that are easy to measure, theoretically under control, and consisely capture interesting physics is not trivial. My work focuses on accurately predicting simple choices of statistic, for example the one point function of the density field, and trying to wrestle down their dependence on fundamental physics.
+
 
 
 ## Conferences and workshops
