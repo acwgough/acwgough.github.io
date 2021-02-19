@@ -22,12 +22,14 @@ A public talk to the Newcastle Astronomical Society, delivered virtually over Zo
 
 ## Teaching
 2021
+
 |Date | Course | Location | Role |
 |---- | ---- | ---- | ---- |
 |Winter 2021| Year 1 Dynamics | Newcastle University | Teaching Assistant |
 |Winter 2021| Year 2 Statistical Mechanics | Newcastle University | Teaching Assistant |
 
 2020
+
 |Date | Course | Location | Role |
 |---- | ---- | ---- | ---- |
 |Autumn 2020| Year 3 Quantum Mechanics | Newcastle University | Teaching Assistant |
