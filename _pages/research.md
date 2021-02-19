@@ -9,7 +9,7 @@ header:
 
 ---
 
-My research focuses on
+My research focuses on structure formation in cosmology.
 
 ## Conferences and workshops
 2021
