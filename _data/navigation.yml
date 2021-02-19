@@ -1,10 +1,10 @@
 main:
   - title: "About me"
     url: /about/
-  - title: "Publications"
+  - title: "Research"
     url: /research/
-  - title: "Talks"
-    url: /talks/
+  - title: "Outreach"
+    url: /outreach/
   - title: "Blog"
     url: /recent/index.html
   - title: "CV"
