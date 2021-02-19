@@ -1,5 +1,5 @@
 ---
-permalink: /talks/
+permalink: /outreach/
 title: "Outreach and conferences"
 excerpt: "|
 
