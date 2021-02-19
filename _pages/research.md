@@ -11,6 +11,12 @@ header:
 
 My research focuses on structure formation in cosmology.
 
+# Gravitational dynamics
+Gravitational collapse is a nonlinear process, turning even simple initial conditions into hugely complex structures at late times. Dark matter is typically modelled as a cold collisionless fluid, which is hugely successful at large scales. However, to understand bound structures, the perfect fluid model must break down, as different streams of dark matter can intersect, causing the distribution to no longer have single valued velocity. Better understanding the dynamics of dark matter within this multistream region is critical to understanding the smaller scale effects of large scale structure. My work focuses on using techniques inspired by the quantum-classical correspondence to model cold dark matter beyond the simple perfect fluid approximation.
+
+# Clustering statistics
+
+
 ## Conferences and workshops
 2021
 
