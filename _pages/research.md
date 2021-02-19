@@ -24,11 +24,10 @@ My research focuses on structure formation in cosmology.
 
 |Date | Conference/Workshop | Contribution |
 |---- | ---- | ---- |
-|24 Aug -- 4 Sep | Cosmology from Home | Attendance |
+|24 Aug -- 4 Sep 2020| Cosmology from Home | Attendance |
 
 
 ## Papers
----
 You can find my papers on: [arXiv](https://arxiv.org/a/gough_a_1.html), [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1524-6949&sort=date+desc), [iNSPIRE HEP](https://inspirehep.net/authors/1837179), or through my [ORCiD profile](https://orcid.org/0000-0002-1524-6949).
 
 2020
