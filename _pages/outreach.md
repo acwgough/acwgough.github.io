@@ -16,7 +16,7 @@ I am passionate about scientific outreach and education. I have previous experie
 
 ## Outreach talks
 2020
-* [**The Skeleton of Our Universe** ]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2020Gough_Newcastle_Astronomical_Society.pdf)
+* [The Skeleton of Our Universe ]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2020Gough_Newcastle_Astronomical_Society.pdf)
 A public talk to the Newcastle Astronomical Society, delivered virtually over Zoom.
 
 
