@@ -40,6 +40,6 @@ You can find my papers on: [arXiv](https://arxiv.org/a/gough_a_1.html), [NASA AD
 
 2020
 
-[1]  **A minimal power-spectrum-based moment expansion for CMB B-mode searches**
-S. Azzoni, M. H. Abitbol, D. Alonso, **A. Gough**, N. Katayama, T. Matsumura
-[arXiv](https://arxiv.org/abs/2011.11575)
+|Year | Title | Authors |
+|---  | ---   | ---     |
+|2020 | [A minimal power-spectrum-based moment expansion for CMB B-mode searches](https://arxiv.org/abs/2011.11575) | S. Azzoni, M. H. Abitbol, D. Alonso, **A. Gough**, N. Katayama, T. Matsumura |
