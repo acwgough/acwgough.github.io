@@ -3,8 +3,8 @@ title: "First paper! (summary)"
 date: 2021-01-05
 mathjax: true
 comments: true
-categories: paper, research, physics
-tags: paper, CMB
+categories: paper research physics
+tags: paper CMB
 ---
 
 This is a bit late, but my [first paper has appeared on arXiv](https://arxiv.org/abs/2011.11575)! This paper is based on work I did while at Oxford in the summer of 2018 (back when we were all allowed to be places in person). I wrote a short summary of this paper for the [Newcastle Observational Astrophysics blog](https://blogs.ncl.ac.uk/astro-obs/2020/11/25/paper-when-galactic-foregrounds-are-allowed-to-vary/), which I want to reproduce here on my own website, potentially to be updated with further details.

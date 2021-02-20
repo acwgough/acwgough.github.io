@@ -3,8 +3,8 @@ title: "New position: Writing for Astrobites"
 date: 2021-01-05
 mathjax: true
 comments: true
-categories: outreach, physics, writing
-tags: outreach, astrobites
+categories: outreach physics writing
+tags: outreach astrobites
 ---
 
 Starting this year, I will be writing for [Astrobites](https://astrobites.org), a collaboration of graudate students in astronomy around the world who write about current research in astronomy. The backbone of Astrobites is their [daily research summaries](https://astrobites.org/category/daily-paper-summaries/) which are posted every day and summarise recent research papers from the astro-ph section of arXiv to make learning about cutting edge research more accessible. Astrobites recently celebrated their 10th birthday, and have grown an enormous amount since they started. In recent years there has been a large emphasis on writing series of posts on things [beyond daily summaries](https://astrobites.org/beyond-astro-ph-library/), which is a really great project and use of their large and growing platform. I particularly enjoyed reading and sharing posts from their #BlackInAstro, LGBTQ+, Women in Astro, and mental health series, but they also have written great posts on navigating careers in academia, how different application processes work, and how to transition from being taught to doing research.
