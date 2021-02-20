@@ -6,7 +6,8 @@ excerpt: "|
 "
 header:
   overlay_image: /assets/images/moon.jpg
-classes:wide
+  classes:
+    - wide
 ---
 ![headshot](/assets/images/headshot.JPG){: .align-left} I'm a first year PhD student at Newcastle University. Formally my PhD is in mathematics, but at heart I'm a physicist, and my research is focused on understanding the large scale structure of the Universe. In particular I study dark matter dynamics in the non-linear regime, and work on using and developing new statistical techniques for extracting cosmological information. My supervisor is [Cora Uhlemann](https://www.staff.ncl.ac.uk/corauhlemann/). You can read more about what our research group does on the [cosmology page](https://blogs.ncl.ac.uk/cosmology/) or the [observational astrophysics](https://blogs.ncl.ac.uk/astro-obs/) page.
 
