@@ -6,6 +6,7 @@ excerpt: "|
 "
 header:
   overlay_image: /assets/images/moon.jpg
+toc: true
 
 ---
 
@@ -35,7 +36,7 @@ Because of the nonlinearities of gravitational interaction, even Gaussian initia
 |24 Aug -- 4 Sep 2020| Cosmology from Home | Attendance |
 
 
-## Papers
+## Publications
 You can find my papers on: [arXiv](https://arxiv.org/a/gough_a_1.html), [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1524-6949&sort=date+desc), [iNSPIRE HEP](https://inspirehep.net/authors/1837179), or through my [ORCiD profile](https://orcid.org/0000-0002-1524-6949).
 
 2020
