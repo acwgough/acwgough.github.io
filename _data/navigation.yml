@@ -10,7 +10,7 @@ main:
   - title: "Blog"
     url: /recent/index.html
   - title: "CV"
-    url: /Alexander_Gough_CV.pdf
+    url: /Alex_Gough_CV.pdf
 
 # adding sidebar for blog navigation
 blog:
