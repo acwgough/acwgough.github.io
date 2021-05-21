@@ -13,6 +13,7 @@ I am passionate about scientific outreach and education. I have previous experie
 ## Published work
 2021
 * [How Fuzzy is the Universe?](https://astrobites.org/2021/01/23/fdm-from-21cm/). Astrobites article based on [this paper](https://arxiv.org/abs/1812.09760)
+* [A cosmic footrace: testing the speed(s) of light with FRBs](https://astrobites.org/2021/05/20/testing-ep-with-frbs/). Astrobites article based on [this paper](https://arxiv.org/abs/2102.11554)
 
 ## Outreach talks
 2020
