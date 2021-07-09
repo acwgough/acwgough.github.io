@@ -15,10 +15,15 @@ I am passionate about scientific outreach and education. I have previous experie
 * [How Fuzzy is the Universe?](https://astrobites.org/2021/01/23/fdm-from-21cm/). Astrobites article based on [this paper](https://arxiv.org/abs/1812.09760)
 * [A cosmic footrace: testing the speed(s) of light with FRBs](https://astrobites.org/2021/05/20/testing-ep-with-frbs/). Astrobites article based on [this paper](https://arxiv.org/abs/2102.11554)
 
-## Outreach talks
+## Outreach talks and livestreams
+2021
+* **Cosmology from Home 2021** Livestreams recapping [what's happened at the conference](https://happs.tv/post/SsokPgclfVdevmCXHT0X), and Reddit AMAs, livestreamed with discussions.
+
 2020
 * [The Skeleton of Our Universe]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2020Gough_Newcastle_Astronomical_Society.pdf) A public talk to the Newcastle Astronomical Society, delivered virtually over Zoom.
 {% include video id="J8rJvQX8R6w" provider="youtube" %}
+* **Live-stream at Cosmology from Home 2020** Several attendants of the Cosmology from Home Conference hosted a [Reddit AMA (Ask Me Anything)](https://www.reddit.com/r/askscience/comments/imdw7e/askscience_ama_series_we_are_cosmologists_experts/) and streamed discussions and answers to YouTube.
+{% include video id="NBAtZqfKF24" provider="youtube" %}
 
 ## Projects
 2021
