@@ -29,7 +29,7 @@ Because of the nonlinearities of gravitational interaction, even Gaussian initia
 |6 -- 7 Jan 2021 | DEX-XVII | Attendance |
 |11 -- 15 Jan 2021 | STFC School for New Students in Astronomy| Short Talk ([slides]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2021_Gough_STFC_Intro_School_for_Astronomy.pdf), [Twitter thread](https://twitter.com/acwgough/status/1349756493214658564?s=20))|
 |12 -- 16 Apr 2021 | BritGrav21 | Short Talk |
-|5 -- 16 Jul 2021 | Cosmology from Home | Lightning talk |
+|5 -- 16 Jul 2021 | Cosmology from Home | Lightning talk [video](https://youtu.be/wJ6jT9LVLP8?t=1165), [slides]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2021_Gough_CfH_flashtalk.pdf) |
 
 
 2020

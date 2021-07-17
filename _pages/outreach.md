@@ -17,7 +17,7 @@ I am passionate about scientific outreach and education. I have previous experie
 
 ## Outreach talks and livestreams
 2021
-* **Cosmology from Home 2021** Livestreams recapping [what's happened at the conference](https://happs.tv/post/SsokPgclfVdevmCXHT0X), and Reddit AMAs, livestreamed with discussions.
+* **Cosmology from Home 2021** Livestreams recapping [what's happened at the conference](https://happs.tv/post/SsokPgclfVdevmCXHT0X), and [Reddit AMA](https://www.reddit.com/r/askscience/comments/oguw1w/askscience_ama_series_we_are_cosmologists_experts/), livestreamed ([YouTube](https://www.youtube.com/watch?v=XuCu_-2OPm4&ab_channel=TrenchesofCosmology), [Haaps](https://happs.tv/post/yLLgnVy8vYzMMggn7YYS)) with discussions.
 
 2020
 * [The Skeleton of Our Universe]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2020Gough_Newcastle_Astronomical_Society.pdf) A public talk to the Newcastle Astronomical Society, delivered virtually over Zoom.
