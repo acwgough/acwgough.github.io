@@ -1,14 +1,12 @@
 ---
 title: "Project completion! First paper from PhD"
-date: 2021-09-01
+date: 2021-08-06
 mathjax: true
 comments: true
 toc: true
 categories: physics research paper
 tags: paper progress LSS modified-gravity statistics LDT
 ---
-# Project completion! First paper from my PhD
-
 Today the first paper from work done during my PhD was put up on arXiv (LINK HERE WHEN IT’S UP), and hopefully it should appear in the journal in short succession. I’ve given several talks about this project before and wrote a [Twitter thread](https://twitter.com/acwgough/status/1349756493214658564?s=20) in the early stages of my involvement in the project, but now it’s complete, here's a more comprehensive summary to the paper. Huge thanks to Matteo Cataneo for letting me hop on this project and do a large chunk of analysis, and to my supervisor Cora Uhlemann for actually teaching me how to do so! (and to my other co-authors Christian Arnold, Baojiu Li, and Catherine Heymans for very important involvement including actually running the simulations we rely on to validate our results).
 
 This write-up is largely based on a talk I’m giving at the [Alternative Gravities and Fundamental Cosmology](https://indico.cern.ch/event/873762/) conference next week, so people with a strong background in the field. I do aim to keep things fairly contained, but if you have further questions about the paper please don’t hesitate to [drop me an email!](mailto:a.gough2@newcastle.ac.uk) The tone and style is very conversational, and perhaps too verbose, but this is for my own edification mostly, and how I would explain things in conversation to another student at a similar stage to me. If terse prose is more your style I refer you to the rigid walls of academic writing in the paper itself.
@@ -39,20 +37,23 @@ Our choice of statistic is the matter probability distribution function (PDF), w
 For the CMB the result is a nearly perfect Gaussian, quantified simply by its width. For the large scale structure we obtain a much more interesting distribution. The main features of the matter PDF at late times are that its peak lies in underdense regions, meaning that most of the volume of the universe is less dense than average. Additionally the high density tail of the distribution is heavier than a Gaussian distribution would be, amplified by the presence of gravitationally collapsed structures.
 
 ## Does anybody have a map?
-The question now becomes can we somehow find an analytic way to move from the nicely Gaussian initial distribution to the non-Gaussian distribution at late times?
+The question now becomes can we somehow find an analytic way to move from the nicely Gaussian initial distribution to the non-Gaussian distribution at late times? 
 
 As good theoretical physicists always should, we return to spherical cows. Considering several spheres of the same average density, the PDF statistic throws away any spatial information related to them. That means that the average profile for a given density should be spherically symmetric, as we stack more and more spheres on top of each other. Symmetry is always nice, and hopefully a tool we can leverage into a mapping between our distributions.
 
 
 The framework we need to do this is called Large Deviation Theory (LDT).
 
-LDT is a mathematical framework which deals with the tails of probability distributions. An excellent introduction paper (at the level of physicists) is [by Touchette](https://arxiv.org/abs/1106.4146). I will not go into any details of the theorems here, since that takes us too far afield (though I will write up something on that someday, I promise) but rather will just quote the main principles we need.
+LDT is a mathematical framework which deals with the tails of probability distributions. An excellent introduction paper (at the level of physicists) is [by Touchette](https://arxiv.org/abs/1106.4146). I will not go into any details of the theorems here, since that takes us too far afield (though I will write up something on that someday, I promise) but rather will just quote the main principles we need. 
 
 Probability distributions satisfying a Large Deviation Principle (LDP) have the general form
+
 $$
 P(x) \sim e^{-N\psi(x)}
 $$
+
 where $N$ is some large number called the driving parameter and $\psi$ is called the rate function (think calculating the sample mean for $N$ samples). The large deviation principle contains within it the central limit theorem: when near the peak $x=x^*$, we can Taylor expand the rate function and obtain
+
 $$
 P(x) \sim e^{-\frac{1}{2}N\psi’’(x^*)(x-x^*)^2}.
 $$
@@ -62,11 +63,14 @@ For our purposes, the feature of LDT we need is that symmetries in our statistic
 This is excellent news, as spherical collapse is an evolution mapping we can actually solve for (at least in GR)! In the case of an Einstein de Sitter universe, we can actually write down an analytic form of the mapping, but in $\Lambda$CDM at least we can solve it numerically.
 
 A series of papers work out the details of what the appropriate rate function is for the matter PDF and the final form of the PDF as predicted by LDT, they are given by:
+
 $$
 P_R(\rho) = \sqrt{\frac{\psi_R’’(\rho) + \psi_R’(\rho)/\rho}{2\pi}}e^{-\psi_R(\rho)}
 $$
+
 (which has $P_R(\rho) \sim e^{-\psi_R(\rho)}$ as expected)
-and
+and 
+
 $$
 \psi_R(\rho) = \frac{\sigma^2_{\rm L}(R)}{\sigma^2_{\rm L}(R\rho^{1/3})}\frac{\tau^2(\rho)}{2\sigma^2_{\rm NL}(R)}.
 $$
@@ -75,7 +79,7 @@ $$
 The rate function relies on three ingredients:
 
 * **Linear theory.** The first fraction is a ratio of linear variances. This is fortunately easy to compute using Boltzmann codes.
-* **Spherical collapse.** This is the key input from LDT. $\tau(\rho)$ means the initial density corresponding to final density $\rho$, as given by the 1-to-1 spherical collapse mapping.
+* **Spherical collapse.** This is the key input from LDT. $\tau(\rho)$ means the initial density corresponding to final density $\rho$, as given by the 1-to-1 spherical collapse mapping. 
 * **Non-linear variance.** This plays the role of the driving parameter from LDT (e.g. our equations become exact in the limit where $\sigma_{\rm NL}\to 0$). You can regard this either as a single parameter to measure from simulation or as a single free parameter of the model.
 
 This model does very well for $\Lambda$CDM universes, as demonstrated in e.g. [Uhlemann et al. (2016)](https://arxiv.org/abs/1512.05793), [Bernardeau & Reimberg (2016)](https://arxiv.org/abs/1511.08641), and [Uhlemann et al. (2019)](https://arxiv.org/abs/1911.11158). We only need weak theoretical assumptions and we get accurate predictions even at redshift 0 and on scales as small as 10 Mpc/$h$ (where things are most non-linear). All this with only a few analytic ingredients.
@@ -94,9 +98,9 @@ In principle when moving to modified gravity (MG) or dark energy (DE) cosmologie
 
 * The **non-linear variance** is trickier. One way of doing this is to run lots of expensive simulations for values of your extended cosmology you care about and measure the non-linear variance from that. Fortunately we’ve done that for you and it turns out you can get an answer accurate to 1% much more easily via the “lognormal approximation” (equation 21 in the paper). For this, you only need a non-linear variance at one fiducial cosmology, and then you can change this to predict the non-linear variance at other cosmologies just using linear theory. In all the cases we considered this lead to PDFs which were accurate to at worst 2% even in the extended cosmology cases.
 
-* **Spherical collapse dynamics** could have been the real kick in the teeth for LDT in extended cosmologies though. Modified gravity in particular can get really tricky here, since scale-dependent fifth-forces (as in $f(R)$) make it impossible to write down a single spherical collapse mapping. Fortunately we are saved provided we restrict ourselves to mildly non-linear scales ($>10 \ \text{Mpc}/h$). In this case, we can use the same spherical collapse mapping as in GR (we actually use the EdS collapse mapping for the paper).
+* **Spherical collapse dynamics** could have been the real kick in the teeth for LDT in extended cosmologies though. Modified gravity in particular can get really tricky here, since scale-dependent fifth-forces (as in $f(R)$) make it impossible to write down a single spherical collapse mapping. Fortunately we are saved provided we restrict ourselves to mildly non-linear scales ($>10 \ \text{Mpc}/h$). In this case, we can use the same spherical collapse mapping as in GR (we actually use the EdS collapse mapping for the paper). 
 
-Figure 1 in the paper shows that provided we rescale the mapping by the difference in linear growth, EdS spherical collapse matches the exact spherical collapse from DGP gravity (a scale independent modification to gravity).
+Figure 1 in the paper shows that provided we rescale the mapping by the difference in linear growth, EdS spherical collapse matches the exact spherical collapse from DGP gravity (a scale independent modification to gravity). 
 
 Figure 2 in the paper looks at the case of a scale dependent modification, where we can’t write down an exact mapping to compare against. However, we can compare the reduced cumulants $S_3, S_4$ (which are closely related to the skewness and kurtosis) measured from simulation to predictions based off of EdS collapse as a proxy for how well we’re reproducing the mapping.
 
@@ -120,8 +124,8 @@ We can now compare the shape of the MG derivatives to the $\sigma_8$ derivatives
 |:--:|
 |*Figure 6: PDF derivatives for $\sigma_8$ and MG parameters*|
 
-## Results
-We ran Fisher analyses on these three models, marginalising over all other $\Lambda$CDM parameters. We included a prior on $\Omega_b$ and $n_s$ to avoid differences in the power spectrum as predicted from theory using HMcode and as measured in our simulations (again, see the appendix).
+## Results 
+We ran Fisher analyses on these three models, marginalising over all other $\Lambda$CDM parameters. We included a prior on $\Omega_b$ and $n_s$ to avoid differences in the power spectrum as predicted from theory using HMcode and as measured in our simulations (again, see the appendix). 
 
 |![ALT TEXT](../assets/post_figures/project_success_first_paper_from_pdf/minifisher_dgp_incl_model.pdf)|![ALT TEXT](../assets/post_figures/project_success_first_paper_from_pdf/minifisher_fR_incl_model.pdf)
 |:--:| :--:|
@@ -133,7 +137,7 @@ For the PDFs we considered 3 scales of 10, 15, and 20 Mpc, at three redshifts 0,
 
 For the dark energy case we used a $w_0w_a$CDM model. In this case we increased measurements on $\sigma_8$, $w_0$, and $w_a$ by a factor 2.5 compared to power spectrum alone, and the figure of merit increases by a factor of 5.
 
-##Takeaways
-Hopefully I’ve managed to convince you that the matter PDF is a powerful tool to use in general in cosmology, and in particular for the case of examining extended cosmologies. Having the analytic framework of large deviation theory based on physical principles is theoretically satisfying and practically useful, and is an ongoing area of application. The final thing I’d like to advertise is that the code used to produce these PDFs, called [pyLDT is now publicly available](https://github.com/mcataneo/pyLDT-cosmo). It comes with 4 models out of the box and a tutorial jupyter notebook, but it is easily extendable to your favourite theory.
+## Takeaways
+Hopefully I’ve managed to convince you that the matter PDF is a powerful tool to use in general in cosmology, and in particular for the case of examining extended cosmologies. Having the analytic framework of large deviation theory based on physical principles is theoretically satisfying and practically useful, and is an ongoing area of application. The final thing I’d like to advertise is that the code used to produce these PDFs, called [pyLDT is now publicly available](https://github.com/mcataneo/pyLDT-cosmo). It comes with 4 models out of the box and a tutorial jupyter notebook, but it is easily extendable to your favourite theory. 
 
 There’s still a lot of work to do in this space, including moving from predictions about the matter field to observable quantities such as convergence lensing maps or halo densities. There are niggles like baryons and redshift-space distortions which are in various stages of being dealt with. But the results are promising, and I’m looking forward to continuing to work in this space during my PhD.
