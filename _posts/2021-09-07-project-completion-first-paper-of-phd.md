@@ -30,7 +30,7 @@ So what are we to do? One standard approach for constructing non-Gaussian statis
 
 Our choice of statistic is the matter probability distribution function (PDF), which is a type of “one-point function”, and it is particularly simple to measure. Simply take your field of interest, be it the CMB or the cosmic web, and drop circles/spheres of a fixed size on it. Within each sphere, calculate the mean matter density, then make a histogram of the result.
 
-|![Alt Text](../assets/post_figures/project_success_first_paper_from_pdf/CMB_LSS_PDFs.png)|
+|![Alt Text](images/project_success_first_paper_from_pdf/CMB_LSS_PDFs.png)|
 |:--:|
 |*Figure 1: PDFs measured from the CMB and from the large scale structure.*|
 
