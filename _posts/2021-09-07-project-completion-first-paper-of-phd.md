@@ -110,7 +110,7 @@ Figure 2 in the paper looks at the case of a scale dependent modification, where
 
 |![ALT TEXT]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/tau.png)|![ALT TEXT]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/fr_cumulants_z0.0.png)
 |:--:| :--:|
-| *Figure 4: Reproducing Figure 1 from the paper* |*Figure 5: Reproducing part of Figure 2 from the paper* |
+| *Figure 4: Reproducing Figure 1 from the paper.* |*Figure 5: Reproducing part of Figure 2 from the paper.* |
 
 Now we can actually look at some PDFs (see Figure 5). By modifying gravity or dark energy, generically changes both the width and the shape of the PDF. But we already have a cosmological parameter which changes the width of the PDF, $\sigma_8$, the clustering amplitude. To see the effect of MG/DE on our PDF we can set the initial parameters to produce the same $\sigma_8$ value at redshift 0. If there is still residual difference then we have some hope of telling MG/DE apart from just a slightly different value of $\Lambda$CDM parameters.
 
@@ -126,7 +126,7 @@ We can now compare the shape of the MG derivatives to the $\sigma_8$ derivatives
 
 |![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/PDF_difference_comparison_MG_R10.0_sigmaPDF_s8fROrconly.png)|
 |:--:|
-|*Figure 7: PDF derivatives for $\sigma_8$ and MG parameters*|
+|*Figure 7: PDF derivatives for $\sigma_8$ and MG parameters.*|
 
 ## Results
 We ran Fisher analyses on these three models, marginalising over all other $\Lambda$CDM parameters. We included a prior on $\Omega_b$ and $n_s$ to avoid differences in the power spectrum as predicted from theory using HMcode and as measured in our simulations (again, see the appendix).
