@@ -30,6 +30,7 @@ Because of the nonlinearities of gravitational interaction, even Gaussian initia
 |11 -- 15 Jan 2021 | STFC School for New Students in Astronomy| Short Talk ([slides]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2021_Gough_STFC_Intro_School_for_Astronomy.pdf), [Twitter thread](https://twitter.com/acwgough/status/1349756493214658564?s=20))|
 |12 -- 16 Apr 2021 | BritGrav21 | Short Talk |
 |5 -- 16 Jul 2021 | Cosmology from Home | Lightning talk [video](https://youtu.be/wJ6jT9LVLP8?t=1165), [slides]({{ site.url }}{{ site.baseurl }}/assets/talk_slides/2021_Gough_CfH_flashtalk.pdf) |
+|6 -- 10 Sept 2021| Alternative Gravities and Fundamental Cosmology | Talk (PhD workshop) |
 
 
 2020
@@ -42,8 +43,7 @@ Because of the nonlinearities of gravitational interaction, even Gaussian initia
 ## Publications
 You can find my papers on: [arXiv](https://arxiv.org/a/gough_a_1.html), [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1524-6949&sort=date+desc), [iNSPIRE HEP](https://inspirehep.net/authors/1837179), or through my [ORCiD profile](https://orcid.org/0000-0002-1524-6949).
 
-2020
-
 |Year | Title | Authors |
 |---  | ---   | ---     |
-|2020 | A minimal power-spectrum-based moment expansion for CMB B-mode searches [arXiv](https://arxiv.org/abs/2011.11575) [JCAP](https://doi.org/10.1088/1475-7516/2021/05/047) | S. Azzoni, M. H. Abitbol, D. Alonso, **A. Gough**, N. Katayama, T. Matsumura |
+|2021 | The matter density PDF for modified gravity and dark energy with Large Deviations Theory [arXiv](https://arxiv.org/abs/2109.02636)| Matteo Cataneo, Cora Uhlemann, Christian Arnold, **Alex Gough**, Baojiu Li, Catherine Heymans |
+|2021 | A minimal power-spectrum-based moment expansion for CMB B-mode searches [arXiv](https://arxiv.org/abs/2011.11575) [JCAP](https://doi.org/10.1088/1475-7516/2021/05/047) | S. Azzoni, M. H. Abitbol, D. Alonso, **A. Gough**, N. Katayama, T. Matsumura |
