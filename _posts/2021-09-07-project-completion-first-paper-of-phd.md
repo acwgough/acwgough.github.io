@@ -30,7 +30,7 @@ So what are we to do? One standard approach for constructing non-Gaussian statis
 
 Our choice of statistic is the matter probability distribution function (PDF), which is a type of “one-point function”, and it is particularly simple to measure. Simply take your field of interest, be it the CMB or the cosmic web, and drop circles/spheres of a fixed size on it. Within each sphere, calculate the mean matter density, then make a histogram of the result.
 
-|![Alt Text](images/project_success_first_paper_from_pdf/CMB_LSS_PDFs.png)|
+|![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/CMB_LSS_PDFs.png)|
 |:--:|
 |*Figure 1: PDFs measured from the CMB and from the large scale structure.*|
 
@@ -41,7 +41,7 @@ The question now becomes can we somehow find an analytic way to move from the ni
 
 As good theoretical physicists always should, we return to spherical cows. Considering several spheres of the same average density, the PDF statistic throws away any spatial information related to them. That means that the average profile for a given density should be spherically symmetric, as we stack more and more spheres on top of each other. Symmetry is always nice, and hopefully a tool we can leverage into a mapping between our distributions.
 
-|![Alt Text](../assets/post_figures/project_success_first_paper_from_pdf/spherical_cows.png)|
+|![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/spherical_cows.png)|
 |:--:|
 |*Figure 2: Spheres with the same mean density all get stacked on top of each other by the matter PDF, which results in a spherical distribution.*|
 
@@ -88,7 +88,7 @@ The rate function relies on three ingredients:
 
 This model does very well for $\Lambda$CDM universes, as demonstrated in e.g. [Uhlemann et al. (2016)](https://arxiv.org/abs/1512.05793), [Bernardeau & Reimberg (2016)](https://arxiv.org/abs/1511.08641), and [Uhlemann et al. (2019)](https://arxiv.org/abs/1911.11158). We only need weak theoretical assumptions and we get accurate predictions even at redshift 0 and on scales as small as 10 Mpc/$h$ (where things are most non-linear). All this with only a few analytic ingredients.
 
-|![Alt Text](../assets/post_figures/project_success_first_paper_from_pdf/Quijote_PDFs.png)|
+|![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/Quijote_PDFs.png)|
 |:--:|
 |*Figure 3: The matter PDF compared to the Quijote simulation measured points. Reproduced from Figure 6 of [Uhlemann et al. 2019](https://arxiv.org/abs/1911.11158).*|
 
@@ -108,13 +108,13 @@ Figure 1 in the paper shows that provided we rescale the mapping by the differen
 
 Figure 2 in the paper looks at the case of a scale dependent modification, where we can’t write down an exact mapping to compare against. However, we can compare the reduced cumulants $S_3, S_4$ (which are closely related to the skewness and kurtosis) measured from simulation to predictions based off of EdS collapse as a proxy for how well we’re reproducing the mapping.
 
-|![ALT TEXT](../assets/post_figures/project_success_first_paper_from_pdf/tau.png)|![ALT TEXT](../assets/post_figures/project_success_first_paper_from_pdf/fr_cumulants_z0.0.png)
+|![ALT TEXT]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/tau.png)|![ALT TEXT]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/fr_cumulants_z0.0.png)
 |:--:| :--:|
 | *Figure 4: Reproducing Figure 1 from the paper* |*Figure 5: Reproducing part of Figure 2 from the paper* |
 
 Now we can actually look at some PDFs (see Figure 5). By modifying gravity or dark energy, generically changes both the width and the shape of the PDF. But we already have a cosmological parameter which changes the width of the PDF, $\sigma_8$, the clustering amplitude. To see the effect of MG/DE on our PDF we can set the initial parameters to produce the same $\sigma_8$ value at redshift 0. If there is still residual difference then we have some hope of telling MG/DE apart from just a slightly different value of $\Lambda$CDM parameters.
 
-|![Alt Text](../assets/post_figures/project_success_first_paper_from_pdf/gr_vs_mg_pdfs.png)|
+|![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/gr_vs_mg_pdfs.png)|
 |:--:|
 |*Figure 6: PDFs from different theories of gravity.*|
 
@@ -124,14 +124,14 @@ To get constraints on modified gravity parameters (and others) we need to know h
 
 We can now compare the shape of the MG derivatives to the $\sigma_8$ derivatives. We see that the DGP derivatives are the same shape as the $\sigma_8$ derivatives, but with different redshift dependence. The DE derivatives are similar, but harder to show on a single plot since there are two parameters which modify the growth rate. The $f(R)$ derivatives are even better (from the perspective of breaking degeneracies), since there is an additional skewness in the derivatives, sourced from the scale-dependent fifth-force. Additionally the $f(R)$ derivatives do not vanish at redshift 0 as the DGP and DE derivatives do, which allows us to extract more non-linear information. *(Technical caveat. While these facts make the constraints on $f(R)$ better than the other models, we trust the results on DGP and DE more, since the lognormal approximation for the non-linear variance is better, see the appendix of the paper.)*
 
-|![Alt Text](../assets/post_figures/project_success_first_paper_from_pdf/PDF_difference_comparison_MG_R10.0_sigmaPDF_s8fROrconly.png)|
+|![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/PDF_difference_comparison_MG_R10.0_sigmaPDF_s8fROrconly.png)|
 |:--:|
 |*Figure 7: PDF derivatives for $\sigma_8$ and MG parameters*|
 
 ## Results
 We ran Fisher analyses on these three models, marginalising over all other $\Lambda$CDM parameters. We included a prior on $\Omega_b$ and $n_s$ to avoid differences in the power spectrum as predicted from theory using HMcode and as measured in our simulations (again, see the appendix).
 
-|![ALT TEXT](../assets/post_figures/project_success_first_paper_from_pdf/minifisher_dgp_incl_model.png)|![ALT TEXT](../assets/post_figures/project_success_first_paper_from_pdf/minifisher_fR_incl_model.png)
+|![ALT TEXT]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/minifisher_dgp_incl_model.png)|![ALT TEXT]({{ site.url }}{{ site.baseurl }}/assets/post_figures/project_success_first_paper_from_pdf/minifisher_fR_incl_model.png)
 |:--:| :--:|
 | *Figure 8: Fisher for DGP. From Figure 9 in the paper.*  |*Figure 9: Fisher for $f(R)$. From Figure 10 in the paper.* |
 
