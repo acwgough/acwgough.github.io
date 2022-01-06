@@ -21,6 +21,13 @@ Because of the nonlinearities of gravitational interaction, even Gaussian initia
 
 
 ## Conferences and workshops
+2022
+
+|Date | Conference/Workshop | Contribution |
+|---- | ---- | ---- |
+|6 -- 7 Jan 2022 | DEX-XVIII | Short talk |
+
+
 2021
 
 |Date | Conference/Workshop | Contribution |
