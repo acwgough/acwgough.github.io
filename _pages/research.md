@@ -27,6 +27,7 @@ Because of the nonlinearities of gravitational interaction, even Gaussian initia
 |---- | ---- | ---- |
 |6 -- 7 Jan 2022 | DEX-XVIII | Short talk |
 |21 -- 25 Mar 2022 | DPG Spring Meeting | Parallel talk |
+|4 -- 5 Apr 2022 | BritGrav22 | Parallel talk |
 
 
 2021
